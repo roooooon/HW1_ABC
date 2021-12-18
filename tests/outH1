@@ -1,0 +1,23 @@
+Filled container:
+Container contains 20 elements.
+0: It is complex number: the real = 5, the imaginary = 20. complex calculation = 20.6155
+1: It is complex number: the real = 4, the imaginary = 15. complex calculation = 15.5242
+2: It is Fraction: numerator = 3, denominator = 11. the fraction = 0.272727
+3: It is complex number: the real = 1, the imaginary = 15. complex calculation = 15.0333
+4: It is complex number: the real = 9, the imaginary = 5. complex calculation = 10.2956
+5: It is complex number: the real = 4, the imaginary = 16. complex calculation = 16.4924
+6: It is Fraction: numerator = 9, denominator = 18. the fraction = 0.5
+7: It is Fraction: numerator = 20, denominator = 9. the fraction = 2.22222
+8: It is Fraction: numerator = 13, denominator = 11. the fraction = 1.18182
+9: It is Fraction: numerator = 4, denominator = 6. the fraction = 0.666667
+10: It is complex number: the real = 16, the imaginary = 15. complex calculation = 21.9317
+11: It is Fraction: numerator = 11, denominator = 17. the fraction = 0.647059
+12: It is Fraction: numerator = 4, denominator = 14. the fraction = 0.285714
+13: It is complex number: the real = 13, the imaginary = 18. complex calculation = 22.2036
+14: It is complex number: the real = 4, the imaginary = 3. complex calculation = 5
+15: It is Fraction: numerator = 4, denominator = 11. the fraction = 0.363636
+16: It is Fraction: numerator = 15, denominator = 20. the fraction = 0.75
+17: It is complex number: the real = 14, the imaginary = 12. complex calculation = 18.4391
+18: It is complex number: the real = 16, the imaginary = 3. complex calculation = 16.2788
+19: It is complex number: the real = 20, the imaginary = 19. complex calculation = 27.5862
+Time: 23 milliseconds
